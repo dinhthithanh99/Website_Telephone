@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/imglogin.jpg");
+}
+
+.font{
+	font-family: "Times New Roman";
+	color: red;
+	font-size: 50px;
+	font-weight: bold;
+}
+#fontimage{
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+#boder{
+	padding-top: 20px;
+}
+
+#size {
+    height: 40%;
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.login-form .btn {
+    font-size: 16px;
+    font-weight: bold;
+    background: #70c5c0;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.login-form .btn:hover,
+.login-form .btn:focus {
+    background: #50b8b3;
+    outline: none !important;
+}
+
+.login-form a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.login-form a:hover {
+    text-decoration: none;
+}
+
+.login-form form a {
+    color: #7a7a7a  ;
+    text-decoration: none;
+}
+
+.login-form form a:hover {
+    text-decoration: underline;
+}
+
